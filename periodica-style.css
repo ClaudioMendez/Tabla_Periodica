@@ -55,20 +55,19 @@
 	display: inline-block;
 }
 .col_blk{
-	margin: 0px;
 	width: 10px;
 	display: inline-block;
-	background-color: white;
 }
 .row_blk{
-	margin: 0px;
 	height: 20px;
 	display: inline-block;
-	background-color: white;
 }
 .blank{
-	margin: 0px;
-	width: 50px;
+	width: 105px;
 	display: inline-block;
-	background-color: white;
+	vertical-align: top;
+}
+.mark{
+	margin-bottom: 35px;
+	color: red;
 }
